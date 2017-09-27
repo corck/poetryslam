@@ -46,13 +46,6 @@ media/logo/logo-128x128.png
 media/logo/logo-16x16.png
 media/logo/logo-compact.png
 media/logo/logo-stuttgart.png
-modules/presentation/partials/competitionRatings.html
-modules/presentation/partials/customText.html
-modules/presentation/partials/group.html
-modules/presentation/partials/groupRatings.html
-modules/presentation/partials/intro.html
-modules/presentation/partials/participant.html
-modules/presentation/partials/ratingParticipant.html
 modules/admin/partials/about.html
 modules/admin/partials/admistrationInterface.html
 modules/admin/partials/competitions.html
@@ -70,6 +63,13 @@ modules/admin/partials/presentation.html
 modules/admin/partials/resultsTab.html
 modules/admin/partials/sounds.html
 modules/admin/partials/videos.html
+modules/presentation/partials/competitionRatings.html
+modules/presentation/partials/customText.html
+modules/presentation/partials/group.html
+modules/presentation/partials/groupRatings.html
+modules/presentation/partials/intro.html
+modules/presentation/partials/participant.html
+modules/presentation/partials/ratingParticipant.html
 modules/admin/partials/dialogs/competitionDialog.html
 modules/admin/partials/dialogs/groupDialog.html
 modules/admin/partials/dialogs/groupParticipantDialog.html
@@ -77,4 +77,4 @@ modules/admin/partials/dialogs/participantDialog.html
 
 NETWORK:
 
-# hash: a2601fa14a5d2ce9ad2027c849a412b41d5200c1b66dad327d14a3ef7fcf41da
+# hash: 099417d5efe53c8bc2aabffcb50f1926c0a8653fb4f3419c37ac49b297cacc09
